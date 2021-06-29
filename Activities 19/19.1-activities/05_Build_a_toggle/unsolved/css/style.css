@@ -1,0 +1,36 @@
+/* Style your dropdown below! */
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+    width: 500px;
+    font-family: "Open Sans"
+}
+
+#dropDown {
+    display: none;
+}
+
+#toggle {
+    background-color: coral;
+    padding: 15px;
+    color: white;
+    cursor: pointer;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    margin: 0;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+img {
+    width: 18px;
+    transform: rotate(180deg);
+}
